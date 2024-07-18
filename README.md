@@ -13,8 +13,8 @@ During this course I covered:
 * Screenshots & Video & Reporting 
 * Cucumber BDD
 
-All files in [page-object](https://github.com/Nieoczywiste-historie/PlaywrightTests/tree/main/page-objects) and [tests](https://github.com/Nieoczywiste-historie/PlaywrightTests/tree/main/tests) were done based on [app](https://github.com/bondar-artem/pw-practice-app) which was running locally.
-[API](https://github.com/Nieoczywiste-historie/PlaywrightTests/tree/main/API) folder was based on [Page](https://conduit-api.bondaracademy.com/)
+All files in [page-object](https://github.com/Nieoczywiste-historie/PlaywrightTests/tree/main/page-objects) and [tests](https://github.com/Nieoczywiste-historie/PlaywrightTests/tree/main/tests) are done based on [app](https://github.com/bondar-artem/pw-practice-app) which was running locally.
+[API](https://github.com/Nieoczywiste-historie/PlaywrightTests/tree/main/API) folder is based on [Page](https://conduit-api.bondaracademy.com/)
 
 
 
